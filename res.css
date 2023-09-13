@@ -1,0 +1,18 @@
+@media only screen and (max-width: 600px){
+.a3{
+    position: absolute;
+    left: 100px;
+    top: 800px;
+}
+.a1{
+    height: 400px;
+    width: 690px;
+    text-align: center; 
+    font-size: 45px;
+}
+.a1 h1{
+    padding-top: 30px;
+    text-align: center; 
+
+}
+}
